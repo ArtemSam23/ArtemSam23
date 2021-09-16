@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 😄 18 y.o.
+- 🤓 ITMO University student
+- 🌱 I’m currently learning Django
+- 📫 Telegram @artemsam
 <!--
 **ArtemSam23/ArtemSam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
