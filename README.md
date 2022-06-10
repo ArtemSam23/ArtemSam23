@@ -3,7 +3,7 @@
 - 🐍 Python backend developer
 ## My stack
 - Python
-- Django Rest Frame Work
+- Django Rest Framework
 - FastAPI
 - SQL and NoSQL
 - Docker, docker compose
