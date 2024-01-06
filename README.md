@@ -4,7 +4,7 @@
 - ⚙️ DevOps Engineer
 ## My stack
 - Python
-- Django Rest Framework
+- Django
 - FastAPI
 - SQL and NoSQL
 - Docker, docker compose
